@@ -53,7 +53,7 @@
         <project.build.locale>zh_CN</project.build.locale>
         
         <guava.version>18.0</guava.version>
-        <slf4j.version>1.7.7</slf4j.version>
+        <slf4j.version>1.7.29</slf4j.version>
         
         <antlr4.version>4.7.1</antlr4.version>
         
@@ -549,7 +549,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -562,7 +562,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore />
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
